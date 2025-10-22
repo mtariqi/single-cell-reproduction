@@ -1,7 +1,5 @@
 # 🧫 Single-Cell RNA-seq Reproduction Study (Theis Lab Tutorial)
 
-# 🧫 Single-Cell RNA-seq Reproduction Study (Theis Lab Tutorial)
-
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
