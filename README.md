@@ -162,12 +162,40 @@ Pathway analysis performed with **g:Profiler** highlighting enriched biological 
 
 ---
 
+## 📚 Citation & References
 
-📄 Reference
+If you use or adapt this repository for academic or research purposes, please cite the original tutorial and dataset authors as follows:
 
-Luecken, M. D., & Theis, F. J. (2019). Current best practices in single-cell RNA-seq analysis: a tutorial.
-Molecular Systems Biology, 15(6), e8746.
-https://doi.org/10.15252/msb.20188746
+### 🔬 Primary References
+
+**Luecken, M. D., & Theis, F. J. (2019).**  
+_Current best practices in single-cell RNA-seq analysis: a tutorial._  
+*Nature Methods, 16*(1), 45–54.  
+https://doi.org/10.1038/s41592-018-0250-3
+
+**Haber, A. L., Biton, M., Rogel, N., Herbst, R. H., Shekhar, K., Smillie, C., Burgin, G., Delorey, T. M., Howitt, M. R., Katz, Y., Tirosh, I., Beyaz, S., Dionne, D., Zhang, M., Raychowdhury, R., Garrett, W. S., Rozenblatt-Rosen, O., Shi, H. N., Yilmaz, Ö. H., ... Regev, A. (2017).**  
+_A single-cell survey of the small intestinal epithelium._  
+*Nature, 551*(7680), 333–339.  
+https://doi.org/10.1038/nature24489
+
+---
+
+### 🧩 Tutorial Repository Reference
+
+**Theis Lab. (2019).**  
+_single-cell-tutorial: Reproducible single-cell RNA-seq analysis pipeline using Scanpy._  
+GitHub repository: [https://github.com/theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
+
+---
+
+### 🧠 Citation for This Reproduction
+
+If referencing my reproduction work directly:
+
+**Islam, M. T. (2025).**  
+_Reproduction of “Current best practices in single-cell RNA-seq analysis” using Python and Scanpy._  
+GitHub repository: [https://github.com/mtariqi/single-cell-reproduction](https://github.com/mtariqi/single-cell-reproduction)
+
 
 ✨ Author (Reproduction)
 
