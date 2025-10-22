@@ -38,6 +38,34 @@ latest_notebook/
  ├── 02_clustering.ipynb
  ├── 03_visualization.ipynb
 ```
+## 📓 Notebook Summary
+
+| Notebook | Description |
+|-----------|--------------|
+| [Case-study_Mouse-intestinal-epithelium_1906.ipynb](notebooks/Case-study_Mouse-intestinal-epithelium_1906.ipynb) | Reproduction of the Haber et al. (2018) mouse intestinal single-cell RNA-seq dataset. Includes preprocessing, dimensionality reduction, clustering, and cell-type annotation using the Scanpy pipeline. |
+| [gprofiler_plotting.py](scripts/gprofiler_plotting.py) | Utility script for enrichment analysis and visualization of marker genes. |
+
+---
+
+## 🧠 Results Preview
+
+This section will be updated with representative outputs from the analysis:
+- **UMAP plots** showing major intestinal cell types  
+- **Marker gene heatmaps**  
+- **Pathway enrichment** using g:Profiler  
+- **Cluster identity annotations**  
+
+*(Plots will be added after reproducing the analysis locally.)*
+
+---
+
+## 💻 Environment and Reproducibility
+
+- Python ≥ 3.9  
+- Scanpy, AnnData, and gprofiler-official  
+- Compatible with Jupyter Notebook, Snakemake, or Nextflow  
+- MIT License (open for reuse in research and teaching)
+
 
 Ensure you list these key commands:
 ## 🚀 How to Reproduce
