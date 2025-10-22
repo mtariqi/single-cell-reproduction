@@ -25,8 +25,8 @@ This tutorial demonstrates an end-to-end single-cell RNA-seq analysis pipeline i
 5. **Cell type annotation and marker identification**  
 6. **Visualization** — heatmaps, trajectory plots, and cluster UMAPs  
 
-Project Summary:
-This repository reproduces the single-cell RNA-seq tutorial by Luecken & Theis (2019), demonstrating best practices in preprocessing, clustering, visualization, and interpretation of single-cell transcriptomic data. The workflow uses Python and Scanpy within Jupyter notebooks to explore the Haber et al. (2018) mouse gut dataset, replicating key analyses from the original publication. Designed as a graduate-level reproducibility exercise, this project emphasizes transparency, reproducibility, and open science in computational biology, serving as a foundation for extending single-cell workflows to new datasets or integrating advanced tools such as Seurat, Harmony, and scVI.
+## Project Summary:
+**This repository reproduces the single-cell RNA-seq tutorial by Luecken & Theis (2019), demonstrating best practices in preprocessing, clustering, visualization, and interpretation of single-cell transcriptomic data. The workflow uses Python and Scanpy within Jupyter notebooks to explore the Haber et al. (2018) mouse gut dataset, replicating key analyses from the original publication. Designed as a graduate-level reproducibility exercise, this project emphasizes transparency, reproducibility, and open science in computational biology, serving as a foundation for extending single-cell workflows to new datasets or integrating advanced tools such as Seurat, Harmony, and scVI.**
 ---
 ⚙️ 3. Reproduction Steps
 conda env create -f environment.yml
