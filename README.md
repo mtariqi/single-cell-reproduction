@@ -66,6 +66,15 @@ This section will be updated with representative outputs from the analysis:
 - Compatible with Jupyter Notebook, Snakemake, or Nextflow  
 - MIT License (open for reuse in research and teaching)
 
+## ⚙️ Environment Setup
+
+To reproduce this analysis, create a new conda environment and activate it:
+
+```bash
+conda env create -f environment.yml
+conda activate single-cell-reproduction
+jupyter lab
+
 
 Ensure you list these key commands:
 ## 🚀 How to Reproduce
