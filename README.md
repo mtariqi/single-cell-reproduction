@@ -5,17 +5,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Updated](https://img.shields.io/github/last-commit/mtariqi/single-cell-reproduction?color=yellow)
 
-
-This repository reproduces the case study from **Luecken & Theis (2019)**,  
-*"Current best practices in single-cell RNA-seq analysis: a tutorial."*  
-_Molecular Systems Biology, 15(6):e8746._
+# 1. Clear Overview
+This repository reproduces the single-cell RNA-seq tutorial from Luecken & Theis (2019),
+“Current best practices in single-cell RNA-seq analysis: a tutorial” (Mol. Syst. Biol.).
+The goal is to learn reproducible single-cell workflows, visualization, and clustering.
 
 📄 **Original paper:** [https://doi.org/10.15252/msb.20188746](https://doi.org/10.15252/msb.20188746)  
 💻 **Original source code:** [https://github.com/theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 
 ---
 
-## 📘 Project Overview
+## 2. 📘 Project Overview
 This tutorial demonstrates an end-to-end single-cell RNA-seq analysis pipeline including:
 
 1. **Preprocessing** — QC, normalization, feature selection  
@@ -25,8 +25,21 @@ This tutorial demonstrates an end-to-end single-cell RNA-seq analysis pipeline i
 5. **Cell type annotation and marker identification**  
 6. **Visualization** — heatmaps, trajectory plots, and cluster UMAPs  
 
+Project Summary:
+This repository reproduces the single-cell RNA-seq tutorial by Luecken & Theis (2019), demonstrating best practices in preprocessing, clustering, visualization, and interpretation of single-cell transcriptomic data. The workflow uses Python and Scanpy within Jupyter notebooks to explore the Haber et al. (2018) mouse gut dataset, replicating key analyses from the original publication. Designed as a graduate-level reproducibility exercise, this project emphasizes transparency, reproducibility, and open science in computational biology, serving as a foundation for extending single-cell workflows to new datasets or integrating advanced tools such as Seurat, Harmony, and scVI.
 ---
+⚙️ 3. Reproduction Steps
+conda env create -f environment.yml
+conda activate single-cell-tutorial
+jupyter notebook
+```
+latest_notebook/
+ ├── 01_preprocessing.ipynb
+ ├── 02_clustering.ipynb
+ ├── 03_visualization.ipynb
+```
 
+Ensure you list these key commands:
 ## 🚀 How to Reproduce
 ### Prerequisites
 Install dependencies using conda:
