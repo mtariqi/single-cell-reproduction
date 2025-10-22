@@ -1,8 +1,12 @@
 # 🧫 Single-Cell RNA-seq Reproduction Study (Theis Lab Tutorial)
 
+# 🧫 Single-Cell RNA-seq Reproduction Study (Theis Lab Tutorial)
+
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Last Updated](https://img.shields.io/github/last-commit/mtariqi/single-cell-reproduction?color=yellow)
+
 
 This repository reproduces the case study from **Luecken & Theis (2019)**,  
 *"Current best practices in single-cell RNA-seq analysis: a tutorial."*  
