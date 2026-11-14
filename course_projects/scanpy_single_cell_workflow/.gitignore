@@ -1,0 +1,7 @@
+data/
+*.h5ad
+*.mtx
+*.tsv.gz
+results/
+__pycache__/
+.ipynb_checkpoints/
