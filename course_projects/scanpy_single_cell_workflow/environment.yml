@@ -1,0 +1,16 @@
+name: scanpy-qc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scanpy
+  - anndata
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scrublet
+  - python-igraph
+  - leidenalg
+  - jupyterlab
